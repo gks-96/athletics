@@ -1,0 +1,33 @@
+body {
+  background : url("../img/stadium4.jpg") no-repeat;
+  background-size:cover;
+  
+}
+
+.header{
+  text-align: justify;
+  color: blanchedalmond;
+  text-overflow: clip;
+  font-size: h2;
+  font-weight: bolder;
+  font-size: x-large;
+  text-align: center;
+}
+#container p {
+  color: blanchedalmond;
+  padding:1em 1em 1em ;
+}
+
+
+ footer{ 
+  background-color: #343a40!important;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  color: rgba(255,255,255,.5);
+}
+
+
